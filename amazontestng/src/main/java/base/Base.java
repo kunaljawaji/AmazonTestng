@@ -10,4 +10,7 @@ public class Base
 	{
 		
 	}
+	public void mobile() {
+		
+	}
 }
