@@ -13,4 +13,7 @@ public class Base
 	public void mobile() {
 		
 	}
-}
+	
+public void mouni() {
+	
+}}
