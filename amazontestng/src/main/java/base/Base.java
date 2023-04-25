@@ -8,7 +8,7 @@ public class Base
 	}
 	public void productspage()
 	{
-		
+		System.out.println("productpage");
 	}
 	public void mobile() {
 		
