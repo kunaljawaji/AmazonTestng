@@ -15,5 +15,6 @@ public class Base
 	}
 	
 public void mouni() {
+	System.out.println("mouni");
 	
 }}
