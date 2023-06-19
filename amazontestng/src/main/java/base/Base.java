@@ -16,9 +16,7 @@ public class Base
 	public void mouni() {
 		System.out.println("this tym i have don something nw");
 	}
-	public void siva() {
-		System.out.println("commit not happeed");
-	}
+	
 	
 public void mounishasanampudi() {
 	
